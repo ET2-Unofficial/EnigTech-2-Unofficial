@@ -21,7 +21,7 @@
 
 <div align="center">
   <br /><br />
-  <img src="/assets/banner/icon.png?raw=true" width="575" alt="EnigTech 2 Unofficial" />
+  <img src="/icon.png?raw=true" width="200" alt="EnigTech 2 Unofficial" />
   <br /><br />
 </div>
 
