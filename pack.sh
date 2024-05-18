@@ -8,11 +8,17 @@ fileName="$PACK_NAME-$MAJOR_VERSION.$MINOR_VERSION.$ITERATION_VERSION-unofficial
 
 cd $PACK_NAME/
 
-zip -r $fileName overrides
+zip -r $fileName .minecraft
 
-zip -m $fileName manifest.json
+zip -r $fileName libraries
 
-zip -m $fileName modlist.html
+zip -r $fileName patches
+
+zip -m $fileName .packignore
+
+zip -m $fileName instance.cfg
+
+zip -m $fileName mmc-pack.json
 
 cd ..
 
