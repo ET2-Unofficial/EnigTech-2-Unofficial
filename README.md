@@ -21,7 +21,7 @@
 
 <div align="center">
   <br /><br />
-  <img src="/icon.png?raw=true" width="200" alt="EnigTech 2 Unofficial" />
+  <img src="/EnigTech2/.minecraft/resources/modpack/icon.png?raw=true" width="200" alt="EnigTech 2 Unofficial" />
   <br /><br />
 </div>
 
@@ -51,7 +51,7 @@ In fact, **This pack** is a tribute to my first playthrough of modpack, namely E
 ### What's Changed?
 A lot. I rewrite the whole modpack.  
 
-------------
+---------------
 
 ##### More stages:
 - Primitive Age
