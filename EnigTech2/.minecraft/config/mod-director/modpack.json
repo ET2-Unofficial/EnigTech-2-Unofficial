@@ -2,7 +2,7 @@
     "packName": "EnigTech 2 Unofficial",
     "icon":
     {
-      "path": "resources/modpack/textures/banner.png",
+      "path": "resources/modpack/textures/icon.png",
       "width": 200,
       "height": 200
     }
