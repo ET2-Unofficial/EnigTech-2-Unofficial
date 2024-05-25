@@ -10,26 +10,29 @@ on:
   pull_request:
     branches: [ master ]
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
+
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4.1.4
 
-    # Runs a single command using the runners shell
-    - name: Run a one-line script
-      run: bash pack.sh
-    
-    - name: Upload a Build Artifact
-      uses: actions/upload-artifact@v2
+    - name: setup python
+      uses: actions/setup-python@v5.1.0
       with:
-        # Artifact name
-        name: EnigTech2-dev
+        python-version: '3.12' # install the python version needed
+
+    - name: install python packages
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: execute py script # run main.py
+      run: python main.py
+
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v4.3.3
+      with:
+        name: EnigTech2-Unofficial-Dev
         # A file, directory or wildcard pattern that describes what to upload
-        path: artifacts
+        path: build/output
