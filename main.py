@@ -33,7 +33,7 @@ print(f'Current working directory: {working_path}')
 
 cache_path = os.path.join(working_path, 'build', 'downloadCache')
 output_path = os.path.join(working_path, 'build', 'output')
-template_path = os.path.join(working_path, 'artifacts')
+template_path = os.path.join(working_path, 'EnigTech2')
 lwjgl_version = ''  # Stub value
 
 for folder in [cache_path, output_path, template_path]:
@@ -83,7 +83,7 @@ else:
 print('---> Prepare installer and template')
 
 Util.extractArchive(installer_pattern[0], installer_pattern[1], os.path.join(cache_path, 'installer'))
-shutil.copytree('artifacts', output_path, dirs_exist_ok=True, ignore=shutil.ignore_patterns('*net.minecraft.json'))
+shutil.copytree(template_path, output_path, dirs_exist_ok=True, ignore=shutil.ignore_patterns('*net.minecraft.json'))
 
 # Read cleanroom version
 print('---> Reading Cleanroom version')
