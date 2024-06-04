@@ -78,9 +78,49 @@
     - Forked Proxy
 
 - Prodigy Tech
+    - Prodigy Mechanics
 
 - Multi Builder Tool
 
+- Heterorustichromia
+
+## 魔法类侧
+
+- Blood Magic 2
+    - Blood Arsenal
+
+- Botania
+    - Botania Tweaks
+    - Botania Needs These Things
+    - Plumed Belt
+    - Botaniverse
+
+- Thaumcraft 6 
+    - Thaumic Bases Unofficial
+    - Thaumic Augmentation
+        - Advanced Alchemical Furnace
+    - Thaumic JEI
+    - Lost Magic
+    - Thaumic Inventory Scanning
+    - Arcane Ateries Kedition
+    - ReForgotten Relics
+    - New Crismon Revelations
+    - Planar Artifice
+
+- Astral Sorcery
+
+- Arcane Archives
+
+- Corail's Tombstone
+
+- Psi Unofficial
+    - Psionic Peripherals
+    - Random PSIdeas
+    - Psio
+    - PSICaster
+    - Zettai Psi
+ 
+- Roots 
 
 ## 核心
 
@@ -103,3 +143,12 @@
 - ValkyrieLib
 - Cyclops Core
 - Common Capabilities
+- Mystical Mechanics API
+- Guide-Api
+- MysticalLib
+- HammerLib
+- LibrarianLib
+- Forgelin Continue
+- AutoRegLib
+- Mystic World
+- DummyCore Unofficial
