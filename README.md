@@ -53,15 +53,9 @@ A lot. I rewrite the whole modpack.
 
 ---------------
 
-##### More stages:
-- Primitive Age
-- Terra Adventurer
-- The Magic Artist
-- Craftsmen
-- Mechanician & Engineer
-- Alien Technology
-- Glimpse Heaven
-- Cosmos Expounder
+##### More Stages:
+Stage 1 - 10!
+And more...
 
 ##### Mod Changes:
 - Silent Gems >> Tinkers
