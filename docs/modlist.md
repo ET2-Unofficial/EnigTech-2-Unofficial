@@ -11,6 +11,7 @@
     - Thermal Cultivation
     - Thermal Innovation
     - Thermal Dynamistics
+        - Thermal Logistics
     - Thermal Expansion 5
         - Simply Jetpacks 2
 
@@ -122,6 +123,206 @@
  
 - Roots 
 
+- Nature's Aura
+
+- Embers Unofficial Extended Life
+    - Soot Unofficial Extended Life
+    - Tinkering with Embers
+
+## 冒险类侧
+
+- I&F: RLCraft Edition
+
+- The Twilight Forest
+
+- Bountiful
+
+- Modern Ruins Pack
+
+- Better Nether: RotN Edition
+
+- Tough As Nails
+    - Tough Expansion
+
+- Grimoire Of Gaia 3
+
+- Champions - RotN Edition
+
+- Scaling Health
+
+- Serene Seasons
+    - Serene Tweaks
+
+- The Betweenlands
+    - The Betweenlands: Eternal Melodies
+    - Moon Between
+
+- Atum 2: Return to the Sands
+
+- The Creeping Nether
+
+- Survivalist
+
+## 农业类侧
+
+- Aquaculture 2
+
+- Cuisine
+
+- Spice of Life: Carrot Edition
+
+- Pam's HarvestCraft
+    - Just Enough HarvestCraft
+    - Pam's BrewCraft
+
+- Farming for Blockheads
+
+- Mystical Agriculture
+    - Mystical Agradditions
+    - Mystical Adaptations
+    - Mystical Creations
+
+- Culinary Construct
+    - Sauce Construct
+
+- Tea the Story
+
+## 装饰类侧
+
+- Item Borders
+
+- Biomes O' Plenty
+
+- Underground Biomes
+
+- YUNG's Better Mineshafts
+
+- YUNG's Better Caves
+
+- Snow! Real Magic!
+
+- ArchitectureCraft - TridentMC Version
+
+- Chisel
+    - Cathedral
+
+- LittleTiles
+
+## 实用类侧
+
+- Charm
+
+- Iron Chests
+
+- Tinker's Construct 2
+    - Construct's Armory
+        - Armory Expansion
+            - Armory Expansion - Bits And Pieces
+    - Tinker's Conplement
+    - Tinker IO
+    - xXx_MoreToolMats_xXx
+    - Tinker's JEI
+    - Tinkers' Evolution
+    - Total Tinkers
+    - Tinker's Modifier Modifier
+    - Tool Leveling with Random Modifiers
+    - Moar TCon
+    - TAIGA Replant Replant
+    - Tinker Toolcasts
+    - Seared Ladder (Backport)
+
+- Silent's Gems
+    - Silent's Gem: TiC Support
+
+- Touhou Little Maid
+
+- Quark: RotN Edition
+    - Quark Oddities
+
+- Waystones
+    - Waystones2Waypoints
+
+- Draconic Evolution
+    - Draconic Additions
+
+- Avaritia Kedition
+
+- Building Gadgets
+
+- Ender Storage
+
+- MmmMmmMmmMmm
+
+- Storage Drawers
+    - Fluid Drawers
+    - Framed Compacting Drawers
+
+- Compact Machines
+
+- Tool Belt
+
+- Actually Additions
+    - Actually Baubles
+
+- Lootr
+
+- More Furnaces Nomifactory Edition
+
+- Akashic Tome
+
+- Future MC
+
+- Flopper
+
+- Better Builder's Wands
+
+- Torchmaster
+
+- Morph-o-Tool
+
+- Scannable
+
+- Flux Networks
+
+- Yoyos
+
+- Nyx: RotN Edition
+
+- Snad
+
+- Extra Utilities 2
+
+- Cooking for Blockheads
+
+- PatPatPat
+
+- ProjectE
+
+- Solar Flux Reborn
+
+- Netherending Ores
+
+- Ceramics
+
+- Chest Transporter
+
+- Nature's Compass
+
+- OpenBlocks Elevators
+
+- OpenGlider
+
+- Bonsai Trees
+    - Botanic Bonsai
+
+- Improved Backpacks
+
+- Better Pipes
+
+- Wopper
+
+- 
+
 ## 核心
 
 - Fugue
@@ -152,3 +353,15 @@
 - AutoRegLib
 - Mystic World
 - DummyCore Unofficial
+- LLibrary
+- LibraryEx
+- Silent Lib
+- Kiwi
+- Apple Core
+- Cucumber Library
+- ConnectedTexturesMod
+- CreativeCore
+- Mantle
+- Brandon's Core
+- Chameleon
+- Fluidlogged API
