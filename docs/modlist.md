@@ -49,6 +49,7 @@
         - Wireless Fluid Terminald
     - Dynamistics
     - Thaumic Energistics Extended Life
+    - AE2 Network Visualiser
 
 - RFTools
     - RFTools Control
@@ -95,6 +96,7 @@
     - Botania Needs These Things
     - Plumed Belt
     - Botaniverse
+    - Orechid Endium
 
 - Thaumcraft 6 
     - Thaumic Bases Unofficial
@@ -207,6 +209,8 @@
     - Cathedral
 
 - LittleTiles
+
+- FarFromHome
 
 ## 实用类侧
 
@@ -321,7 +325,158 @@
 
 - Wopper
 
-- 
+## 辅助类侧
+
+- Stellar Core
+
+- CensoredASM
+
+- Mouse Tweaks Unofficial
+
+- Resource Loader
+
+- Better Third Person
+
+- ItemZoom
+
+- Had Enough Items
+    - JEI Integration
+    - Just Enough Resources
+    - JEI Utilities
+    - Just Enough Drags
+    - Just Enough Throwing In Fluids
+    - Just Enough Calculation
+    - Roughly Enough IDs
+ 
+- Classic Bars
+
+- KleeSlabs
+
+- Passive SearchBar
+
+- Mod Name Tooltip
+
+- AppleSkin
+
+- Clumps
+
+- Controlling
+
+- Pick Up Notifier
+
+- The One Probe
+    - TOP Addons
+ 
+- Tips
+
+- Xaero's Minimap
+
+- Xaero's Worldmap
+
+- XaeroPlus
+
+- InGame Info XML
+
+- TrashSlot
+
+- Spark
+
+- Inventory Tweaks
+
+- Smooth Font
+
+- Ding
+
+- Homoium
+
+- Modern Splash
+
+- Cosmetic Armor Reworked
+
+- Better Advancements
+
+- Alfheim Light Engine
+
+- Valkyrie
+
+- Universal Tweaks
+
+- VintageFix
+
+- Forgiving Void
+
+- Graduated Cylinders
+
+- VisualOres
+
+- Nimble
+
+- Legendary Tooltips
+
+- Aqua Arcobatics
+
+- Crafting Tweaks Unofficial
+
+- ScreenTooltips
+
+- FloatingItems
+
+- FTB Library
+    - FTB Utilities
+    - FTB Backups
+ 
+- Random Patches
+
+- Random Tweaks
+
+- Blur
+
+## 魔改类侧
+
+- Modular Machinery: Community Edition
+    - Modular Magic: Community Edition
+    - Gugu Utils
+ 
+- Avaritia Item
+
+- CraftTweaker
+
+- RandomTweaker
+
+- Realistic Terrain Generator Unofficial
+
+- ContentTweaker
+
+- CraftTweaker Integration
+
+- Zen Utils
+
+- ZenRecipeReload
+
+- Extended Crafting Nomifactory Edition
+
+- Game Stages
+
+- ModTweaker
+
+- More Tweaker
+
+- Triumph
+
+- Even More Realistic Ore Veins
+
+- Artisan Worktables
+
+- Thaumcraft Asepct Creator
+
+- InWorldCrafting
+
+- CraftTweaker Utils
+
+- PackMode
+    - PackMode Menu
+ 
+- Default World Generator
 
 ## 核心
 
@@ -365,3 +520,8 @@
 - Brandon's Core
 - Chameleon
 - Fluidlogged API
+- Red Core
+- B.A.S.E
+- MTLib
+- BnBGamingLib
+- BnBGamingCore
