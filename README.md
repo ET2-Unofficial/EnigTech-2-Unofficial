@@ -40,9 +40,10 @@ I created this repository and project by `GNU GPL v3.0` from origin EnigTech 2 p
 
 ---------------
 
-_I did not use the origin things (resources, scripts, modlist e.t.c.)._  
-__So this project is not the really fork__  
-For EnigTech2, I get many ideas by it.    
+_Not use the origin things (resources, scripts, modlist e.t.c.)._  
+__So this project is not the really fork.__  
+
+This project got many ideas by EnigTech2.    
 In fact, **This pack** is a tribute to my first playthrough of modpack, namely EnigTech 2.  
 
 ***THANKS ET-Team***
@@ -58,7 +59,7 @@ Stage 1 - 10!
 And more...
 
 ##### Mod Changes:
-- Silent Gems >> Tinkers
+- Silent Gems >> Tinkers (Newest Change: Both)
 - Mekanism >> Mekanism CEU
 - Modular Machinery >> Modular Machinery CE
 e.t.c.
